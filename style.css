@@ -1,0 +1,26 @@
+h1{
+    color:blue
+}
+
+figure{ 
+    border: 1 px solid red;
+}
+
+figure figcaption{
+    color: blue;
+
+}
+figure img{
+    border:1 px solid blue;
+    object-fit: cover;
+}
+
+h3[role="heading"]{
+    color:rgb(0,86,92)
+}
+
+.lista{
+    list-style-type:none;
+    display:inline;
+    padding: 10px;
+}
